@@ -106,6 +106,8 @@ celerybeat.pid
 .venv
 env/
 venv/
+anfisa_for_friends/static_dev —  old/
+anfisa_for_friends/templates —  old/
 ENV/
 env.bak/
 venv.bak/
